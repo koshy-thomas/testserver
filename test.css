@@ -1,20 +1,15 @@
-    /* CSS Element Selector */
     button {
       background-color: lightblue;
     }
-    /* CSS Id Selector */
     #addToCart {
       background-color: lightgreen;
     }
-    /* CSS Class Selector */
     .customClass {
       font-weight: bold;
     }
-    /* CSS Universal Selector */
     * {
       border: 1px solid gray;
     }
-    /* CSS Group Selector */
     h1, h2 {
       color: purple;
     }
